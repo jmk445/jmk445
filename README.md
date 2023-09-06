@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+# My Dev Life
+- c, c++
+- python
+- fastapi, mongodb
 <!--
 **jmk445/jmk445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
