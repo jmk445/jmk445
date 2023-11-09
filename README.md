@@ -1,12 +1,12 @@
-###👋 부산대학교 정보 컴퓨터 공학부 김정민 입니다.
-# My Dev Life
+# 👋 부산대학교 정보 컴퓨터 공학부 김정민 입니다.
+## My Dev Life
 - C, C++
 - Python
 - Fastapi, mongoDB
-# 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 - Spring
 - Java programming
-#📫 How to reach me: ...
+## 📫 How to reach me: ...
 -jmk445123456@gmail.com
 
   
