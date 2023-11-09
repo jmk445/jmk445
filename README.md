@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋
 # My Dev Life
 - c, c++
 - python
