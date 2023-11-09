@@ -7,7 +7,7 @@
 - Spring
 - Java programming
 ## 📫 How to reach me: ...
--jmk445123456@gmail.com
+- jmk445123456@gmail.com
 
   
 <!--
