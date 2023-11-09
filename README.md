@@ -1,10 +1,14 @@
-###👋
+###👋 부산대학교 정보 컴퓨터 공학부 김정민 입니다.
 # My Dev Life
-- c, c++
-- python
-- fastapi, mongodb
+- C, C++
+- Python
+- Fastapi, mongoDB
 # 🌱 I’m currently learning ...
-- spring
+- Spring
+- Java programming
+#📫 How to reach me: ...
+-jmk445123456@gmail.com
+
   
 <!--
 **jmk445/jmk445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
