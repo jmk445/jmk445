@@ -11,6 +11,8 @@
 - Java programming
 ## 📫 How to reach me: ...
 - jmk445123456@gmail.com
+- https://velog.io/@jmk445
+  
 
   
 <!--
