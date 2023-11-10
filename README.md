@@ -9,7 +9,7 @@
 ## 🌱 I’m currently learning ...
 - Spring
 - Java programming
-## 📫 How to reach me: ...
+## 📫 How to reach me
 - jmk445123456@gmail.com
 - https://velog.io/@jmk445
   
