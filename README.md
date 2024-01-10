@@ -7,6 +7,8 @@
 - Python
 - Fastapi, mongoDB
 ## 🌱 I’m currently learning ...
+- Svelte
+- Java Script(express)
 - Spring
 - Java programming
 ## 📫 How to reach me
