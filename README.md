@@ -1,6 +1,5 @@
 ## 👋 안녕하세요. 김정민 입니다.
 부산대학교 정보 컴퓨터 공학부 소속으로 개발 공부를 하고 있습니다.
-기억보다는 기록을 많이 하기 위해 노력중입니다.
 
 ## 👯My Dev Life
 - C, C++
@@ -14,6 +13,13 @@
 ## 📫 How to reach me
 - jmk445123456@gmail.com
 - https://velog.io/@jmk445
+
+##
+- Pnu cse
+- Gamba Labs 현장실습 ~
+
+
+
   
 
   
