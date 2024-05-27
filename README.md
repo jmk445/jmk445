@@ -16,7 +16,7 @@
 
 ##
 - Pnu cse
-- Gamba Labs 현장실습 ~
+- Gamba Labs 현장실습
 
 
 
