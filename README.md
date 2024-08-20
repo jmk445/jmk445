@@ -5,11 +5,15 @@
 - C, C++
 - Python
 - Fastapi, mongoDB
+- svelte, express
+- Spring
+
 ## 🌱 I’m currently learning ...
 - Svelte
 - Java Script(express)
 - Spring
 - Java programming
+  
 ## 📫 How to reach me
 - jmk445123456@gmail.com
 - https://velog.io/@jmk445
