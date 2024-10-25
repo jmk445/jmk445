@@ -1,18 +1,12 @@
 ## 👋 안녕하세요. 김정민 입니다.
-부산대학교 정보 컴퓨터 공학부 소속으로 개발 공부를 하고 있습니다.
+효율,신속,정확한 코드를 지향합니다
 
-## 👯My Dev Life
-- C, C++
-- Python
+## 👯Tech Stack
+- Python, JAVA
 - Fastapi, mongoDB
-- svelte, express
+- svelte,Express
 - Spring
-
-## 🌱 I’m currently learning ...
-- Svelte
-- Java Script(express)
-- Spring
-- Java programming
+  
   
 ## 📫 How to reach me
 - jmk445123456@gmail.com
