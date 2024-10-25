@@ -1,7 +1,7 @@
 ## 안녕하세요. 김정민 입니다.
 신속,정확한 코드를 지향합니다
 
-## 👯Tech Stack
+## Tech Stack
 - Python, JAVA
 - Fastapi, mongoDB
 - Svelte,Express
@@ -12,7 +12,7 @@
 - AID Web backend
 - 텍스트 기반 실종자 탐지 시스템
 
-## 📫 Tech blog
+## Tech blog
 - https://velog.io/@jmk445
 
 ## Affiliated to
