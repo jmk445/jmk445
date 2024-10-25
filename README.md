@@ -4,12 +4,15 @@
 ## 👯Tech Stack
 - Python, JAVA
 - Fastapi, mongoDB
-- svelte,Express
+- Svelte,Express
 - Spring
   
-  
-## 📫 How to reach me
-- jmk445123456@gmail.com
+## PROJECTS
+- 감바랩스 음성인식,객체인식 교육 플랫폼(Private)
+- AID Web backend
+- 텍스트 기반 실종자 탐지 시스템
+
+## 📫 Tech blog
 - https://velog.io/@jmk445
 
 ##
