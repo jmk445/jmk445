@@ -11,7 +11,7 @@
 - 감바랩스 음성인식,객체인식 교육 플랫폼(Private)
 - AID Web backend
 - 텍스트 기반 실종자 탐지 시스템
-- aws를 이용한 도커 컨테이너 수평확장(scale up) 시스템
+- hadoop을 이용한 도커 컨테이너 수평확장(scale up) 시스템
 
 ## Tech blog
 - https://velog.io/@jmk445
