@@ -15,9 +15,10 @@
 ## 📫 Tech blog
 - https://velog.io/@jmk445
 
-##
+## Affiliated to
 - Pnu cse
-- Gamba Labs 현장실습
+- AID 
+- Gamba Labs
 
 
 
