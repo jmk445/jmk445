@@ -1,19 +1,18 @@
-## 안녕하세요. 김정민 입니다.
-
 ## Tech Stack
-- Python, JAVA
-- Fastapi, mongoDB
-- Svelte,Express
-- Spring
+- BE
+  - Spring, Fastapi,Express
+- FE
+  - Svelte
+- DB
+  - mongoDB
   
 ## Projects
-- 감바랩스 음성인식,객체인식 교육 플랫폼(Private)
-- AID Web backend
-- 텍스트 기반 실종자 탐지 시스템
-- hadoop을 이용한 도커 컨테이너 수평확장(scale up) 시스템
+- 감바랩스 음성인식,객체인식 체험 플랫폼 [link](https://github.com/jmk445/gamba-trainer.git)
+- 텍스트 기반 실종자 탐지 시스템 [link](https://github.com/jmk445/missing-person-detector-backend.git)
+- AID Web backend [link](https://github.com/jmk445/AID_WEB.git)
 
 ## Tech blog
-- https://velog.io/@jmk445
+- [velog](https://velog.io/@jmk445)
 
 ## Affiliated to
 - Pnu cse
