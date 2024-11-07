@@ -1,6 +1,6 @@
 ## Tech Stack
 - BE
-  - Spring, Fastapi,Express
+  - Spring, Fastapi, Express
 - FE
   - Svelte
 - DB
