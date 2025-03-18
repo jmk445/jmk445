@@ -44,7 +44,7 @@
 - PNU CSE
 - AID
 - Gamba Labs
-- Ureka Boot Camp
+- Ureka Uplus SW Academy
 
 
 ---
