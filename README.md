@@ -41,7 +41,7 @@
 ---
 
 # 🏫 Affiliated to
-- PNU CSE
+- PNU CSE (2019 ~ 2025)
 - AID
 - Gamba Labs
 - Ureka Uplus SW Academy
