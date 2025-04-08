@@ -1,37 +1,28 @@
 # 👨‍💻 Developing Tech Stack
 
 ### **Backend**
-- FastAPI 
-- Express
-- Java Spring 
-  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
 ### **Frontend**
-- Svelte
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ### **Database**
-- MongoDB
-- mySQL
-- JPA
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=java&logoColor=white)
 
 ---
 
 # 📂 Projects
 
-### **[감바랩스 음성인식, 객체인식 AI 체험 플랫폼](https://github.com/jmk445/gamba-trainer.git)** (Private)
-> 음성인식과 객체인식을 활용한 AI 기술을 직접 체험합니다.
-> 감바랩스의 '임베디드 시스템' 대학 강의 전용 플랫폼입니다.
-> SVELTE, EXPRESS 등을 활용하여 구현하였습니다. 
-
-### **[텍스트 기반 실종자 탐지 시스템](https://github.com/jmk445/missing-person-detector-backend.git)**
-> 텍스트를 기반으로 cctv 상의 실종자를 탐지하는 시스템
-> YOLO World, FastAPI, SVELTE 등을 활용하여 구현하였습니다.
-
-### **[AID Web Backend](https://github.com/jmk445/AID_WEB.git)**
-> AID 웹 플랫폼의 백엔드 시스템
-> FAST API,mongo DB 등을 활용하여 구현하였습니다.
-
-### **[Ureka Mini Project](https://github.com/jmk445/ureka-mini-project)**
-> 유레카 교육 미니 프로젝트 - 휴대폰 판매 시스템
+| 프로젝트명 | 설명 | 주요 기술 스택 |
+|-----------|------|----------------|
+| [감바랩스 음성인식, 객체인식 AI 체험 플랫폼](https://github.com/jmk445/gamba-trainer.git) | 음성인식과 객체인식을 활용한 임베디드 시스템 대학 강의 전용 AI 체험 플랫폼 | Svelte, Express |
+| [텍스트 기반 실종자 탐지 시스템](https://github.com/jmk445/missing-person-detector-backend.git) | 텍스트 기반으로 CCTV 영상에서 실종자를 탐지하는 시스템 | YOLO World, FastAPI, Svelte |
+| [AID Web Backend](https://github.com/jmk445/AID_WEB.git) | AID 웹 플랫폼의 백엔드 시스템 | FastAPI, MongoDB |
+| [Ureka Mini Project](https://github.com/jmk445/ureka-mini-project) | 유레카 교육 미니 프로젝트 - 휴대폰 판매 시스템 | Java, MySQL, Spring |
 
 ---
 
