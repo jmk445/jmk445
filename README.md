@@ -23,7 +23,7 @@
 | [텍스트 기반 실종자 탐지 시스템](https://github.com/jmk445/missing-person-detector-backend.git) | 텍스트 기반으로 CCTV 영상에서 실종자를 탐지하는 시스템 | YOLO World, FastAPI, Svelte |
 | [AID Web Backend](https://github.com/jmk445/AID_WEB.git) | AID 웹 플랫폼의 백엔드 시스템 | FastAPI, MongoDB |
 | [Ureka Mini Project](https://github.com/jmk445/ureca-phonemanager.git) | 유레카 교육 미니 프로젝트 - 휴대폰 판매 시스템 | Java, myBatis, Spring|
-
+| [Ureka Mini Project 2](https://github.com/jmk445/ureca-miniproject-2) | 유레카 교육 미니 프로젝트 2 - 마피아웹 게임 | Spring Boot, Jpa, MySQL|
 ---
 
 # 📝 Tech Blog
