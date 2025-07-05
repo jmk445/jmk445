@@ -22,9 +22,8 @@
 | [감바랩스 음성인식, 객체인식 AI 체험 플랫폼](https://github.com/jmk445/gamba-trainer.git) | 음성인식과 객체인식을 활용한 임베디드 시스템 대학 강의 전용 AI 체험 플랫폼 | Svelte, Express |
 | [텍스트 기반 실종자 탐지 시스템](https://github.com/jmk445/missing-person-detector-backend.git) | 텍스트 기반으로 CCTV 영상에서 실종자를 탐지하는 시스템 | YOLO World, FastAPI, Svelte |
 | [AID Web Backend](https://github.com/jmk445/AID_WEB.git) | AID 웹 플랫폼의 백엔드 시스템 | FastAPI, MongoDB |
-| [Ureka Mini Project 1 v1](https://github.com/jmk445/ureca-phone-manager.git) | 유레카 교육 미니 프로젝트 1 - 휴대폰 판매 시스템 | Java, myBatis, MySQL|
-| [Ureka Mini Project 1 v2](https://github.com/jmk445/ureca-phone-manager-v2.git) | 유레카 교육 미니 프로젝트 1 - 휴대폰 판매 시스템 v2 | Java, SpringDataJpa, MySQL|
-| [Ureka Mini Project 2](https://github.com/jmk445/ureca-miniproject-2) | 유레카 교육 미니 프로젝트 2 - 마피아웹 게임 | Spring Boot, Jpa, MySQL|
+| [U+ ureca 종합 프로젝트](https://github.com/jmk445/chatbot-backend.git) | 유레카 sw 교육 종합 프로젝트 | Spring, FastApi, Pytorch.. |
+
 ---
 
 # 📝 Tech Blog
